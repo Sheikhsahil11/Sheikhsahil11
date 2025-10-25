@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sheikh Sahil
-🎓 MSc Computer Science (1rd Year)  
+🎓 MSc Computer Science (1st Year)  
 🤖 Certified in Artificial Intelligence  
 💻 Passionate about Python, Machine Learning, and Web Development  
 
